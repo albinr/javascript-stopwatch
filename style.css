@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+    height: 100%;
+
+}
+
+.wrapper {
+    width: 800px;
+    text-align: center;
+}
